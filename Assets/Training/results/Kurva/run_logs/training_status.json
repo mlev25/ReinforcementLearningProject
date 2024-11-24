@@ -1,0 +1,38 @@
+{
+    "Mouse": {
+        "checkpoints": [
+            {
+                "steps": 499969,
+                "file_path": "results\\Kurva\\Mouse\\Mouse-499969.onnx",
+                "reward": -0.9527572991655153,
+                "creation_time": 1731708774.4651618,
+                "auxillary_file_paths": [
+                    "results\\Kurva\\Mouse\\Mouse-499969.pt"
+                ]
+            },
+            {
+                "steps": 574063,
+                "file_path": "results\\Kurva\\Mouse\\Mouse-574063.onnx",
+                "reward": 0.16692310318541834,
+                "creation_time": 1731709015.573098,
+                "auxillary_file_paths": [
+                    "results\\Kurva\\Mouse\\Mouse-574063.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 574063,
+            "file_path": "results\\Kurva\\Mouse.onnx",
+            "reward": 0.16692310318541834,
+            "creation_time": 1731709015.573098,
+            "auxillary_file_paths": [
+                "results\\Kurva\\Mouse\\Mouse-574063.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

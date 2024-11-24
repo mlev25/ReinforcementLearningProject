@@ -1,0 +1,29 @@
+{
+    "Mouse": {
+        "checkpoints": [
+            {
+                "steps": 441035,
+                "file_path": "results\\proba3\\Mouse\\Mouse-441035.onnx",
+                "reward": -8.002769460901618,
+                "creation_time": 1731775956.0322406,
+                "auxillary_file_paths": [
+                    "results\\proba3\\Mouse\\Mouse-441035.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 441035,
+            "file_path": "results\\proba3\\Mouse.onnx",
+            "reward": -8.002769460901618,
+            "creation_time": 1731775956.0322406,
+            "auxillary_file_paths": [
+                "results\\proba3\\Mouse\\Mouse-441035.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

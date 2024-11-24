@@ -1,0 +1,38 @@
+{
+    "Mouse": {
+        "checkpoints": [
+            {
+                "steps": 499957,
+                "file_path": "results\\probe1\\Mouse\\Mouse-499957.onnx",
+                "reward": -37.45800467637869,
+                "creation_time": 1731779239.0737011,
+                "auxillary_file_paths": [
+                    "results\\probe1\\Mouse\\Mouse-499957.pt"
+                ]
+            },
+            {
+                "steps": 500021,
+                "file_path": "results\\probe1\\Mouse\\Mouse-500021.onnx",
+                "reward": -37.45800467637869,
+                "creation_time": 1731779239.1148236,
+                "auxillary_file_paths": [
+                    "results\\probe1\\Mouse\\Mouse-500021.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500021,
+            "file_path": "results\\probe1\\Mouse.onnx",
+            "reward": -37.45800467637869,
+            "creation_time": 1731779239.1148236,
+            "auxillary_file_paths": [
+                "results\\probe1\\Mouse\\Mouse-500021.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

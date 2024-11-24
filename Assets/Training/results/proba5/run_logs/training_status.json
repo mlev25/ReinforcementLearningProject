@@ -1,0 +1,29 @@
+{
+    "Mouse": {
+        "checkpoints": [
+            {
+                "steps": 263113,
+                "file_path": "results\\proba5\\Mouse\\Mouse-263113.onnx",
+                "reward": -189.72327252796717,
+                "creation_time": 1731776792.1116054,
+                "auxillary_file_paths": [
+                    "results\\proba5\\Mouse\\Mouse-263113.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 263113,
+            "file_path": "results\\proba5\\Mouse.onnx",
+            "reward": -189.72327252796717,
+            "creation_time": 1731776792.1116054,
+            "auxillary_file_paths": [
+                "results\\proba5\\Mouse\\Mouse-263113.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
